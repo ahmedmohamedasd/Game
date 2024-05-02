@@ -1,0 +1,16 @@
+{
+  "currentMachine": {
+    "machine_id": "326870eb08b271cc4b85ffb811dea39f75622ef2",
+    "game_id": "2"
+  },
+  "allMachine": [
+    {
+      "machine_id": "326870eb08b271cc4b85ffb811dea39f75622ef3",
+      "game_id": "3"
+    },
+    {
+      "machine_id": "326870eb08b271cc4b85ffb811dea39f75622ef2",
+      "game_id": "2"
+    }
+  ]
+}
